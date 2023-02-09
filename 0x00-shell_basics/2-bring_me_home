@@ -1,0 +1,6 @@
+#!/bin/bash
+pwd
+echo ' Printing home directory..'
+echo $HOME
+cd $HOME
+pwd
